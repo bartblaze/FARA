@@ -20,5 +20,5 @@ There's a few methods:
 * In addition, you can also clone this repo, then run YARA-CI on it: https://yara-ci.cloud.virustotal.com/. 
 If you want an example of how Yara-CI can help, have a look at my own Yara rules repository: https://github.com/bartblaze/Yara-rules
 
-## Do you accept Pull Requests?
-Yes, but only if you contribute a new *faux* rule :wink:. PR's to make the faux rules work with Yara will be closed (don't fix them, make new wrong ones!).
+## Do you accept Pull Requests (PRs)?
+Yes, but only if you contribute a new *faux* rule :wink:. PRs to make the faux rules work with Yara will be closed - you can of course submit a PR for feedback - but they will not be accepted to merge in this repository.
