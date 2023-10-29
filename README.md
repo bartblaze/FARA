@@ -25,7 +25,7 @@ There's a few methods:
 If you want an example of how Yara-CI can help, have a look at my own Yara rules repository: https://github.com/bartblaze/Yara-rules
 
 ## Do you accept Pull Requests (PRs)?
-Yes, but only if you contribute a new *faux* rule :wink:. PRs to make the faux rules actually work with Yara will be closed - you can of course submit a PR for feedback - but they will not be accepted to merge in this repository.
+Yes, but only if you contribute a new *faux* rule :wink:. PRs to make the faux rules actually work with Yara will be closed - you can of course submit a PR for feedback or to submit your solution(s) - but they will **not** be accepted to merge in this repository.
 
 ## I want the solution to a faux rule!
 Post a new Git issue.
