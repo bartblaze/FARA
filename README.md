@@ -20,6 +20,7 @@ There's a few methods:
 
 * Go hardcore and just look at them in your favourite text editor. Don't use syntax highlighting as additional challenge.
 * The easiest and best way: try to run them with Yara (use the latest available stable version) and make way from there.
+* You can use / try Florian Roth's yaraQA: https://github.com/Neo23x0/yaraQA
 * In addition, you can also clone this repo, then run YARA-CI on it: https://yara-ci.cloud.virustotal.com/.
   
 If you want an example of how Yara-CI can help, have a look at my own Yara rules repository: https://github.com/bartblaze/Yara-rules
