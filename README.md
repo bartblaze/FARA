@@ -3,7 +3,7 @@
 ## What is FARA?
 FARA, or Faux YARA, is a simple repository that contains a set of **purposefully erroneous** Yara rules. It is meant as a training vehicle for new security analysts, those that are new to Yara and even Yara veterans that want to keep their rule writing (and debugging) sharp.
 
-If you're here, you already know what Yara is, but if not, simply visit Yara's Github repository: https://github.com/VirusTotal/yara.
+If you're here, you already know what Yara is, but if not, do visit Yara's Github repository: https://github.com/VirusTotal/yara.
 
 ## How do I use FARA?
 Very simple, download or clone the repo and start figuring out what is wrong with each and every Yara rule! Errors may have been created on the following levels:
